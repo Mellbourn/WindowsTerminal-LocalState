@@ -116,7 +116,7 @@
                 "suppressApplicationTitle": true
             },
             {
-                "colorScheme": "Dracula PRO - Lincoln",
+                "colorScheme": "Dracula PRO",
                 "commandline": "ssh klass-macbook-pro-16-2023",
                 "guid": "{87357170-25d4-488d-a162-42ccd889819d}",
                 "hidden": false,
@@ -127,7 +127,7 @@
                 "suppressApplicationTitle": true
             },
             {
-                "colorScheme": "Dracula PRO - Lincoln",
+                "colorScheme": "Dracula PRO - Van Helsing",
                 "commandline": "ssh Klass-Mac-mini-2020-M1",
                 "guid": "{d666f29d-9072-402b-94f2-45caee839218}",
                 "hidden": false,
@@ -138,7 +138,7 @@
                 "suppressApplicationTitle": true
             },
             {
-                "colorScheme": "Dracula PRO - Lincoln",
+                "colorScheme": "Dracula PRO - Buffy",
                 "commandline": "ssh Mias-MacBook-Pro-16-2021",
                 "guid": "{47457f15-538f-4599-80a7-7b890cce91e2}",
                 "hidden": false,
